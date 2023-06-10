@@ -1,0 +1,50 @@
+:root{
+    --bg-cuevanaMain:#0F1269;
+    --bg-cuevanaSecondary:#476BE6;
+    --bg-cuevanaPanelTitle: #051342;
+    --bg-cuevanaFooter: #070129;
+    --white: #FFFF;
+}
+
+html{
+    background-color: var(--bg-cuevanaMain);
+}
+
+body{
+    background-color: var(--bg-cuevanaMain);
+}
+
+span, h1{
+ color: var(--white);
+}
+
+.cuevanaContainer{
+    background-color: var(--bg-cuevanaMain);
+}
+
+.cuevanaMoviePanel{
+    background-color: var(--bg-cuevanaSecondary);
+}
+
+.cuevanaContainerTitle{
+    background-color: var(--bg-cuevanaPanelTitle);
+}
+
+.cuevanaFooter{
+    background-color: var(--bg-cuevanaFooter);
+}
+
+.cuevanaContainer h1,p{
+    color: var(--white);
+}
+
+strong{
+    color: var(--white);
+}
+
+.panel-heading.heading-movie{
+    color:var(--white);
+    background-color: var(--bg-cuevanaPanelTitle);
+    text-align: center;
+    font-size: 10em;
+}

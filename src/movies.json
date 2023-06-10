@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Black Panther",
+    "releaseYear": 2018,
+    "category": "Superhero",
+    "director": "Ryan Coogler",
+    "img": "images/blackpanther.png",
+    "price": 1
+  },
+  {
+    "id": 1,
+    "name": "Avengers: Infinity War",
+    "releaseYear": 2018,
+    "category": "Superhero",
+    "director": "Anthony Russo, Joe Russo",
+    "img":"images/avengersIF.png",
+    "price": 4
+  },
+  {
+    "id": 2,
+    "name": "Spider-Man: Into the Spider-Verse",
+    "releaseYear": 2018,
+    "category": "Animation",
+    "director": "Bob Persichetti",
+    "img": "images/spidermanITVS.png",
+    "price": 2
+  },
+  {
+    "id": 3,
+    "name": "Bohemian Rhapsody",
+    "releaseYear": 2018,
+    "category": "Biography",
+    "director": "Bryan Singer",
+    "img": "images/bohemian.png",
+    "price": 1
+  },
+  {
+    "id": 4,
+    "name": "A Star is Born",
+    "releaseYear": 2018,
+    "category": "Drama",
+    "director": "Bradley Cooper",
+    "img": "images/astart.png",
+    "price": 1
+  },
+  {
+    "id": 5,
+    "name": "The Favourite",
+    "releaseYear": 2018,
+    "category": "Drama",
+    "director": "Yorgos Lanthimos",
+    "img": "images/thefav.png",
+    "price": 1
+  },
+  {
+    "id": 6,
+    "name": "Roma",
+    "releaseYear": 2018,
+    "category": "Drama",
+    "director": "Alfonso Cuarón",
+    "img": "images/roma.png",
+    "price": 1
+  },
+  {
+    "id": 7,
+    "name": "Green Book",
+    "releaseYear": 2018,
+    "category": "History",
+    "director": "Peter Farrelly",
+    "img": "images/greenbook.png",
+    "price": 2
+  },
+  {
+    "id": 8,
+    "name": "The Irishman",
+    "releaseYear": 2019,
+    "category": "Drama",
+    "director": "Martin Scorsese",
+    "img": "images/theirihsman.png",
+    "price": 3
+  },
+  {
+    "id": 9,
+    "name": "Marriage Story",
+    "releaseYear": 2019,
+    "category": "Drama",
+    "director": "Noah Baumbach",
+    "img": "images/marriage.png",
+    "price": 5
+  },
+  {
+    "id": 10,
+    "name": "Parasite",
+    "releaseYear": 2019,
+    "category": "Drama",
+    "director": "Bong Joon-ho",
+    "img": "images/parasite.png",
+    "price": 2 
+  },
+  {
+    "id": 11,
+    "name": "1917",
+    "releaseYear": 2019,
+    "category": "History",
+    "director": "Sam Mendes",
+    "img": "images/1917.png",
+    "price": 3
+  },
+  {
+    "id": 12,
+    "name": "Once Upon a Time... in Hollywood",
+    "releaseYear": 2019,
+    "category": "Comedy",
+    "director": "Quentin Tarantino",
+    "img": "/images/onceuponaTime.png",
+    "price": 1
+  },
+  {
+    "id": 13,
+    "name": "No Time to Die",
+    "releaseYear": 2021,
+    "category": "Action",
+    "director": "Cary Joji Fukunaga",
+    "img": "images/noTimeToDie.png",
+    "price": 2
+  },
+  {
+    "id": 14,
+    "name": "Dune",
+    "releaseYear": 2021,
+    "category": "Adventure",
+    "director": "James Gun",
+    "img": "images/Dune.png",
+    "price": 1
+  },
+  {
+    "id": 15,
+    "name": "Godzilla: King of the monsters",
+    "releaseYear": 2019,
+    "category": "Cience Fiction",
+    "director": "Michael Dougherty",
+    "img": "images/godzillakotm.png",
+    "price": 2
+  }
+]
